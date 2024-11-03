@@ -32,7 +32,7 @@ This report provides an overview of a simple web page created using HTML and CSS
 
 ### Links
 
-- Solution URL: [Ma solution](https://mariekaf.github.io/recipe-page-main/)
+- Solution URL: [Ma solution](https://mariekaf.github.io/four-card-feature-section-master/)
 
 
 ## My process
